@@ -41,8 +41,16 @@ I enjoy turning ideas into polished digital products—from full-stack web appli
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ajtc16&show_icons=true&theme=github_dark&hide_border=true" alt="Antonio's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajtc16&layout=compact&theme=github_dark&hide_border=true" alt="Antonio's most used languages" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=ajtc16&show_icons=true&theme=github_dark&hide_border=true&locale=es&commits_year=2026&cache_seconds=21600&v=20261014"
+    alt="Estadísticas de GitHub de Antonio"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajtc16&layout=compact&theme=github_dark&hide_border=true&langs_count=6&exclude_repo=mvc_cakephp_ing_web,perros_perdidos&cache_seconds=21600&v=20261014"
+    alt="Lenguajes más utilizados por Antonio"
+  />
 </div>
 
 ---
