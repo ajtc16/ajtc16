@@ -1,61 +1,74 @@
 <div align="center">
 
-# Hi, I'm Antonio Terán 👋
+# Antonio Terán
 
-### Full-stack developer crafting useful products and playful digital experiences
+### Senior Technology Consultant · Solution Architect · Tech Lead
 
-Based in Ecuador 🇪🇨 · Focused on TypeScript, web development, mobile apps, and game-inspired products
+Enterprise Systems · Integrations · Legacy Modernization · Digital Products
+
+Based in Quito, Ecuador 🇪🇨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-teran/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtc16)
 
 </div>
 
 ---
 
-## About me
+## About
 
-I enjoy turning ideas into polished digital products—from full-stack web applications to mobile and game-inspired experiences. I care about clean interfaces, thoughtful UX, and building things people genuinely enjoy using.
+I’m a technology consultant, solution architect, and hands-on technical lead with 10+ years of experience designing, modernizing, integrating, and stabilizing business-critical software for organizations across the United States and Latin America.
 
-- 🔭 Currently building modern web products with **TypeScript**
-- 🎮 Interested in **game development**, interactive experiences, and UX
-- 🌱 Always learning through hands-on projects
-- 🤝 Open to collaborating on creative web, mobile, and game projects
+My background spans enterprise architecture, distributed systems, legacy modernization, backend development, system integrations, DevOps, CI/CD, and technical leadership. I work across the full solution lifecycle—from discovery and architecture assessment to implementation, deployment, troubleshooting, and production stabilization.
 
-## Featured projects
+Alongside enterprise systems, I build SaaS products, progressive web applications, and interactive digital experiences to explore modern product engineering, UX, and AI-assisted development.
 
-| Project | What it is | Stack |
+## Areas of expertise
+
+- Solution architecture and technical discovery
+- Enterprise integrations and distributed systems
+- Legacy modernization and production stabilization
+- Technical leadership, estimation, and architecture reviews
+- Backend engineering with Java and Spring
+- Cloud-native delivery, Docker, Kubernetes, and CI/CD
+- Modern product development with TypeScript, React, and Next.js
+
+## Selected product work
+
+| Project | Description | Technologies |
 |---|---|---|
-| [Replidex](https://github.com/ajtc16/replidex) | An immersive Mega Man X tactical companion covering 64 Mavericks across X1–X8, with weakness chains, recommended routes, dossiers, and local progress tracking. | Next.js · React · TypeScript · Zustand · PWA |
-| [AFTO Connect](https://github.com/ajtc16/afto-connect) | A multi-tenant networking SaaS with permanent digital profiles, QR and NFC sharing, lead capture, interaction analytics, and an AI-ready architecture. | Next.js · React · TypeScript · Supabase |
-| [Pokémon App](https://github.com/ajtc16/pokemon_app) | A full-stack Pokémon explorer with token authentication, protected routes, searchable and paginated results, detailed views, and a custom Ruby API connected to PokéAPI. | Next.js · React · TypeScript · Ruby on Rails |
-| [Tamagotchi Apple Watch](https://github.com/ajtc16/tamagochi-apple-watch) | A native Apple Watch virtual-pet experience exploring playful interactions and watchOS complications. | Swift · SwiftUI · watchOS |
-| [Proyecto Juego Mate](https://github.com/ajtc16/ProyectoJuegoMate) | An educational web game created to support the learning and practice of basic mathematical operations through interactive challenges. | C# · Web development · Game design |
+| [Replidex](https://github.com/ajtc16/replidex) | An immersive tactical PWA covering 64 Mega Man X bosses, with weakness chains, recommended routes, dossiers, and local progress tracking. | Next.js · React · TypeScript · Zustand · PWA |
+| [AFTO Connect](https://github.com/ajtc16/afto-connect) | A multi-tenant networking platform with permanent digital profiles, QR/NFC sharing, lead capture, interaction analytics, and an AI-ready architecture. | Next.js · TypeScript · Supabase · PostgreSQL |
+| [Pokémon App](https://github.com/ajtc16/pokemon_app) | A full-stack application with token authentication, protected routes, search, pagination, detailed views, and a custom API connected to PokéAPI. | Next.js · React · TypeScript · Ruby on Rails |
+| [Tamagotchi Apple Watch](https://github.com/ajtc16/tamagochi-apple-watch) | An experimental virtual-pet experience created for Apple Watch. | Swift · watchOS |
 
-## Core toolkit
+## Technology focus
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,nodejs,html,css,flutter,dart,swift,unity,git,docker,figma&perline=7" alt="Antonio's core technologies" />
-</p>
+**Architecture & backend**  
+Java · Spring Boot · REST APIs · Distributed Systems · SQL · PostgreSQL
+
+**Product engineering**  
+TypeScript · JavaScript · React · Next.js · HTML · CSS
+
+**Delivery & infrastructure**  
+Git · Docker · Kubernetes · CI/CD · Linux
+
+**Additional experience**  
+IBM WebSphere · DataPower · AS/400 integrations · .NET · Mobile and game development
 
 ## GitHub activity
 
 <div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ajtc16&show_icons=true&theme=github_dark&hide_border=true&locale=es&commits_year=2026&cache_seconds=21600&v=20261014"
-    alt="Estadísticas de GitHub de Antonio"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajtc16&layout=compact&theme=github_dark&hide_border=true&langs_count=6&exclude_repo=mvc_cakephp_ing_web,perros_perdidos&cache_seconds=21600&v=20261014"
-    alt="Lenguajes más utilizados por Antonio"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ajtc16&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&locale=en&cache_seconds=21600&v=20261014-3" alt="Antonio's public GitHub activity" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajtc16&layout=compact&theme=github_dark&hide_border=true&langs_count=6&exclude_repo=mvc_cakephp_ing_web,perros_perdidos&cache_seconds=21600&v=20261014-3" alt="Languages used across Antonio's public repositories" />
 </div>
+
+<p align="center">
+  <sub>These cards reflect public repositories only.</sub>
+</p>
 
 ---
 
 <div align="center">
-  <strong>Have an interesting idea?</strong><br />
-  Let's build something memorable together.
+  Interested in architecture, modernization, or digital product engineering?<br />
+  <a href="https://www.linkedin.com/in/antonio-teran/">Let’s connect on LinkedIn</a>.
 </div>
