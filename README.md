@@ -26,10 +26,11 @@ I enjoy turning ideas into polished digital products—from full-stack web appli
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Pokémon App](https://github.com/ajtc16/pokemon_app) | Full-stack app with authentication, protected routes, search, pagination, and detailed views | TypeScript · React · Ruby |
-| [Replidex](https://github.com/ajtc16/replidex) | A recent TypeScript project | TypeScript |
-| [AFTO Connect](https://github.com/ajtc16/afto-connect) | A recent web project | TypeScript |
-| [Tamagotchi Apple Watch](https://github.com/ajtc16/tamagochi-apple-watch) | A playful Apple Watch experience | Swift |
+| [Replidex](https://github.com/ajtc16/replidex) | An immersive Mega Man X tactical companion covering 64 Mavericks across X1–X8, with weakness chains, recommended routes, dossiers, and local progress tracking. | Next.js · React · TypeScript · Zustand · PWA |
+| [AFTO Connect](https://github.com/ajtc16/afto-connect) | A multi-tenant networking SaaS with permanent digital profiles, QR and NFC sharing, lead capture, interaction analytics, and an AI-ready architecture. | Next.js · React · TypeScript · Supabase |
+| [Pokémon App](https://github.com/ajtc16/pokemon_app) | A full-stack Pokémon explorer with token authentication, protected routes, searchable and paginated results, detailed views, and a custom Ruby API connected to PokéAPI. | Next.js · React · TypeScript · Ruby on Rails |
+| [Tamagotchi Apple Watch](https://github.com/ajtc16/tamagochi-apple-watch) | A native Apple Watch virtual-pet experience exploring playful interactions and watchOS complications. | Swift · SwiftUI · watchOS |
+| [Proyecto Juego Mate](https://github.com/ajtc16/ProyectoJuegoMate) | An educational web game created to support the learning and practice of basic mathematical operations through interactive challenges. | C# · Web development · Game design |
 
 ## Core toolkit
 
